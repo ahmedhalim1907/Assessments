@@ -18,8 +18,5 @@ public class Basics {
 
     }
 
-    @AfterClass
-    public void afterClass() {
-        browser.quit();
-    }
+   
 }
